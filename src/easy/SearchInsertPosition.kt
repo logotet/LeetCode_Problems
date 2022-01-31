@@ -1,5 +1,5 @@
 package easy
-
+//No. 35
 class SearchInsertPosition {
     fun searchInsert(nums: IntArray, target: Int): Int {
         for (i in nums.indices) {
