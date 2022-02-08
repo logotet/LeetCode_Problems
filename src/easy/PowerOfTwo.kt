@@ -10,7 +10,7 @@ class PowerOfTwo {
             m /= 2
 
         }
-
+        
         if (remainder != 0 || m == 0) {
             isIt = false
         }
