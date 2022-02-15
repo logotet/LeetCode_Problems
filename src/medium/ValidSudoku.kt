@@ -10,7 +10,6 @@ class ValidSudoku {
                 val currentRow = mutableListOf<Char>()
                 var dotCounter = 0
                 for (i in row.indices) {
-                    //TODO for the solution remove first()
                     if (row[i].isDigit()) {
                         currentRow.add(row[i])
                     } else {

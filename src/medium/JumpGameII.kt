@@ -1,5 +1,5 @@
 //No. 45
-class JumpGameIIn {
+class JumpGameII {
     fun jump(nums: IntArray): Int {
         var maxJumpPower: Int
         var numberOfJumps = 0
